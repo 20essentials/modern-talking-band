@@ -1,0 +1,23 @@
+export const nameBand = 'MODERN TALKING';
+export let nameSongs = [
+	"YOU'RE MY HEART, YOU'RE MY SOUL", /*1*/
+	"BROTHER LOUIE", /*2*/
+	"CHERI CHERI LADY", /*3*/
+	"ATLANTIS IS CALLING", /*4*/
+	"GERONIMO'S CADILLAC", /*5*/
+	"EL DORADO", /*6*/
+	"YOU CAN WIN IF YOU WANT", /*7*/
+	"JET AIRLINER", /*8*/
+	"YOU ARE NOT ALONE", /*9*/
+	"IN 100 YEARS", /*10*/
+	"DO YOU WANNA", /*11*/
+	"DIAMONDS NEVER MADE A LADY", /*12*/
+	"WIN THE RACE", /*13*/
+	"SEXY SEXY LOVER", /*14*/
+	"READY FOR THE VICTORY", /*15*/
+	"LUCKY GUY", /*16*/
+	"JUST WE TWO", /*17*/
+	"ANGIE'S HEART", /*18*/
+	"HEAVEN WILL KNOW", /*19*/
+	"WILD WILD WATER", /*20*/
+]
